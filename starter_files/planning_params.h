@@ -13,7 +13,7 @@
 #include <array>
 
 // Planning Constants
-#define P_NUM_PATHS 12                  // TODO - Num of paths (goals)
+#define P_NUM_PATHS 9                  // TODO - Num of paths (goals)
 #define P_LOOKAHEAD_MIN 8.0            // m
 #define P_LOOKAHEAD_MAX 20.0           // m
 #define P_LOOKAHEAD_TIME 1.5           // s
